@@ -10,22 +10,6 @@ mergeable:
         must_exclude:
           regex: "wip|WIP|work in progress"
 
-  - when: issues.*
-    name: "Issue title check"
-    validate:
-      - do: title
-        begins_with:
-          match: ["Feature", "Improvement", "Bug", "Chore"]
-          message: >
-            The following problems were found with this issue:
-              - Title must begin with 'Feature', 'Improvement', 'Bug' or 'Chore'
-    fail:
-      - do: comment
-        payload:
-          body: >
-            The following problems were found with this issue:
-              - Title must begin with 'Feature', 'Improvement', 'Bug' or 'Chore'
-
   - when: pull_request.*
     name: "PR title check"
     validate:
