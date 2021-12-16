@@ -1,6 +1,6 @@
 ---
 name: Improvement or Changes
-about: Describe the purpose here.
+about: Propose changes or improvement on the existing code
 title: ''
 labels: enhancement
 assignees: ''
