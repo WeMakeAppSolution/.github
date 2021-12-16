@@ -1,6 +1,8 @@
+(Remove belows if it's a release PR)
+
 ### Related Issues
 
-(use # following with the target issue number or Notion links if it is not provided)
+(use # following with the target issue number or Notion links if it is not included in the issue)
 
 ### How has this been tested?
 
@@ -19,5 +21,5 @@
 ### Checklist
 
 - [ ] communicated technically and expectedly in terms of system design and user requirements
-- [ ] related changes and the affected areas have been tested
+- [ ] related changes and the affected areas have been tested and self-reviewed (e.g. removed useless console log)
 - [ ] Any dependent or downstream changes/ENV/subsystem have been merged and released
