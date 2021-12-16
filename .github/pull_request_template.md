@@ -22,4 +22,5 @@
 
 - [ ] communicated technically and expectedly in terms of system design and user requirements
 - [ ] related changes and the affected areas have been tested and self-reviewed (e.g. removed useless console log)
+- [ ] verified cross platform check (iOS and Android) or responsive design (Mobile first and wider screens)
 - [ ] Any dependent or downstream changes/ENV/subsystem have been merged and released
