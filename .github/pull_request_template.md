@@ -12,8 +12,12 @@
 
 (required if it's a new feature or bug fix)
 
-### Checklist:
+### Documentation Link
 
+(document the steps or embed this PR link to the corresponding section so we can speed up next time)
+
+### Checklist
+
+- [ ] communicated technically and expectedly in terms of system design and user requirements
 - [ ] related changes and the affected areas have been tested
-- [ ] documented to Notion if it does not exist
 - [ ] Any dependent or downstream changes/ENV/subsystem have been merged and released
