@@ -6,9 +6,10 @@
 
 ### How has this been tested?
 
-1. Test A
-2. Test B
-3. 
+1. Step 1
+2. Step 2
+3. Navigate to `/lists` (Web) or Navigate to `ListScreen` (Mobile)
+4. and more steps
 
 ### Screenshots / Test Routes / Steps to Visualize
 
@@ -16,7 +17,10 @@
 
 ### Do we need to monitor for a certain period of time after merging?
 
-(Yes/No, monitor on Datadog/Production Site/Logging/etc.)
+- ~~Yes (more details if needed)~~
+- No
+- ~~Monitor on Datadog~~
+- ~~Monitor on Logflare~~
 
 ### Documentation Link
 
@@ -24,7 +28,22 @@
 
 ### Checklist
 
-- have communicated technically and expectedly in terms of system design and user requirements
-- related changes and the affected areas have been tested and self-reviewed (e.g. removed useless console log)
-- have verified cross platform check (iOS and Android) or responsive design (Mobile first and wider screens)
-- there are no Any dependent or downstream changes/ENV/subsystem have been merged and released
+#### UI Checklist
+- [ ] UI states handling (Loading State, Error State, Empty State, etc.) and proper spacing handling
+- [ ] Form elements constraint and validation
+- [ ] Cross platform check (iOS and Android) and Responsive check (with different viewport)
+
+#### Server Checklist
+- [ ] Metrics to be collected (Datadog)
+- [ ] Server log (LogFlare) and exception handling (Sentry)
+- [ ] Response time within a second
+
+#### Product Checklist
+- [ ] Analytics data collection
+- [ ] Test plan/E2E test
+- [ ] Communication: Is it the simpliest solution? Does it meet the Product Owner's expectation?
+
+#### Following Up Checklist
+- [ ] Documentation for reuse
+- [ ] Breakchange or migration handle beforehand
+- [ ] Is a full test required? Which parts of the system are needed to be verified afterward?
