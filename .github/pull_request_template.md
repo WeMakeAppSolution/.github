@@ -1,10 +1,10 @@
 ### Test Steps
 
-<placeholder>
+(placeholder here)
 
 ### Screenshots / Test Routes / Steps to Visualize
 
-<placeholder>
+(placeholder here)
 
 ### Do we need to monitor for a certain period of time after merging?
 
