@@ -1,19 +1,10 @@
-(Remove belows if it's a release PR)
+### Test Steps
 
-### Related Issues
-
-(use # following with the target issue number or Notion links if it is not included in the issue)
-
-### How has this been tested?
-
-1. Step 1
-2. Step 2
-3. Navigate to `/lists` (Web) or Navigate to `ListScreen` (Mobile)
-4. and more steps
+<placeholder>
 
 ### Screenshots / Test Routes / Steps to Visualize
 
-(required if it's a new feature or bug fix)
+<placeholder>
 
 ### Do we need to monitor for a certain period of time after merging?
 
