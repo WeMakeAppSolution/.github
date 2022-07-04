@@ -1,7 +1,7 @@
 ### Self-check
 
-- [x] [Self-review on Code Review Guidelines](https://www.notion.so/wemakeapp-docs/Code-Review-Best-Practice-aeb7cf4fb3964ef4ad35c6a9d2fbfe2d){target="_blank"}
 - [x] Tested locally and remotely
+- [x] [Self-review on Code Review Guidelines](https://www.notion.so/wemakeapp-docs/Code-Review-Best-Practice-aeb7cf4fb3964ef4ad35c6a9d2fbfe2d)
 - [x] Provided necessary context details below
 
 ### Test Steps
