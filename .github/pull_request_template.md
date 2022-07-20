@@ -1,6 +1,4 @@
-### Ensure the below's self-check first
-
-Make a tick 
+### Run below's self-check first and tick
 
 - [ ] Tested locally and remotely
 - [ ] [Self-review on Code Review Guidelines](https://www.notion.so/wemakeapp-docs/Code-Review-Best-Practice-aeb7cf4fb3964ef4ad35c6a9d2fbfe2d)
