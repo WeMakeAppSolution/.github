@@ -1,8 +1,10 @@
-### Self-check
+### Ensure the below's self-check first
 
-- [x] Tested locally and remotely
-- [x] [Self-review on Code Review Guidelines](https://www.notion.so/wemakeapp-docs/Code-Review-Best-Practice-aeb7cf4fb3964ef4ad35c6a9d2fbfe2d)
-- [x] Provided necessary context details below
+Make a tick 
+
+- [ ] Tested locally and remotely
+- [ ] [Self-review on Code Review Guidelines](https://www.notion.so/wemakeapp-docs/Code-Review-Best-Practice-aeb7cf4fb3964ef4ad35c6a9d2fbfe2d)
+- [ ] Provided necessary context details below
 
 ### Test Steps
 
@@ -14,4 +16,4 @@
 
 ### Extra details (documentation, test cases, flow chart, metrics, internal tools, analytics, etc.)
 
-(document the steps or embed this PR link to the corresponding section so we can speed up next time)
+(document the steps or embed this PR link to the corresponding section so we can speed up next time, also reference Linear's label)
