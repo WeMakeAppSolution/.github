@@ -1,17 +1,14 @@
-### Run below's self-check first and tick
+## What does this PR do?
 
-- [ ] Tested locally and remotely
-- [ ] [Self-review on Code Review Guidelines](https://www.notion.so/wemakeapp-docs/Code-Review-Best-Practice-aeb7cf4fb3964ef4ad35c6a9d2fbfe2d)
-- [ ] Provided necessary context details below
+(one-liner description)
 
-### Test Steps
+### Checklist before requesting for review (must complete and tick all)
 
-(placeholder here)
+- [ ] I've reviewed my code and align with the [Code Review Guidelines](https://www.notion.so/wemakeapp-docs/Code-Review-Best-Practice-aeb7cf4fb3964ef4ad35c6a9d2fbfe2d)
+- [ ] I've added screenshots if visual changes and the design aligns with Figma
+- [ ] I've added a short video demo if it is complex or required in Linear's label
+- [ ] I've tested locally and in the feature preview branch
 
-### Screenshots / Test Routes / Steps to Visualize
+### Additional details (Test steps / screenshots / video demo / flow chart / metrics added or changed / internal tools/ related urls / related file paths / etc)
 
-(placeholder here)
-
-### Extra details (documentation, test cases, flow chart, metrics, internal tools, analytics, etc.)
-
-(document the steps or embed this PR link to the corresponding section so we can speed up next time, also reference Linear's label)
+(provide more details other than the code)
