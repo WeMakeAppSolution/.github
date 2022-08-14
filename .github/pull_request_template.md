@@ -15,6 +15,6 @@
 - [ ] I've tested locally and in the feature preview branch
 - [ ] I've merged any dependent changes in downstream modules or APIs
 
-## Additional details (screenshots / video demo / flow chart / metrics added or changed / internal tools/ related urls / related file paths / etc)
+## Additional details
 
-(provide more details other than the code)
+(provide more details other than the code: screenshots / video demo / flow chart / metrics added or changed / internal tools/ related urls / related file paths / etc)
