@@ -36,9 +36,26 @@ mergeable:
           changes_requested: true
           message: This PR has requested changes
 
+  # if having `technical` tag, require 2 approvals
+  # if not, required 1 approval
   - when: pull_request.*, pull_request_review.*
     name: "Approval check"
     validate:
-      - do: approvals
-        min:
-          count: 2
+      - do: or
+        validate:
+          - do: and
+            validate:
+              - do: label
+                must_include:
+                  regex: "technical"
+              - do: approvals
+                min:
+                  count: 1
+          - do: and
+            validate:
+              - do: label
+                must_exclude:
+                  regex: "technical"
+              - do: approvals
+                min:
+                  count: 2
