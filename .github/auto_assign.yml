@@ -1,0 +1,13 @@
+runOnDraft: true
+
+# Set to true to add reviewers to pull requests
+addReviewers: true
+
+# Set to true to add assignees to pull requests
+addAssignees: author
+
+reviewers:
+  - wmasamuel
+  - yhjor
+  - HananoshikaYomaru
+  
