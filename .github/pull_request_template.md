@@ -1,12 +1,12 @@
-## One-liner description
+### One-liner description
 
 (provide more context if necessary)
 
-## Test steps with screenshots/video/flow chart
+### Test steps with screenshots/video/flow chart
 
 (descrube how this can be tested in User Story format to verify your changes, provide instructions so reviewers can reproduce)
 
-## Checklist before requesting for review (must complete and tick all)
+### Checklist before requesting for review (must complete and tick all)
 
 - [ ] I've tested locally and remotely with requirements and align with the [Feature Branch Review Guidelines](https://wemakeapp-docs.notion.site/Feature-Branch-Review-Guidelines-aeb7cf4fb3964ef4ad35c6a9d2fbfe2d)
 - [ ] I've designed the change to be testable and updated the test cases in the Test Management System (if necessary)
