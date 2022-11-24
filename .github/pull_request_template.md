@@ -1,17 +1,13 @@
-## What does this PR do?
+## One-liner description
 
-(one-liner description, provide more context if necessary)
+(provide more context if necessary)
 
-## How has this been tested?
+## Test steps with screenshots/video/flow chart
 
-(descrube the tests that you ran to verify your changes, provide instructions so reviewers can reproduce.)
+(descrube how this can be tested in User Story format to verify your changes, provide instructions so reviewers can reproduce)
 
 ## Checklist before requesting for review (must complete and tick all)
 
-- [ ] I've tested locally and in the feature preview branch
-- [ ] I've reviewed my code and align with the [Feature Branch Review Guidelines](https://wemakeapp-docs.notion.site/Feature-Branch-Review-Guidelines-aeb7cf4fb3964ef4ad35c6a9d2fbfe2d)
+- [ ] I've tested locally and remotely with requirements and align with the [Feature Branch Review Guidelines](https://wemakeapp-docs.notion.site/Feature-Branch-Review-Guidelines-aeb7cf4fb3964ef4ad35c6a9d2fbfe2d)
+- [ ] I've designed the change to be testable and updated the test cases in the Test Management System (if necessary)
 - [ ] I've added screenshots (any visual changes involved) or a short video demo for a user flow
-
-## Additional details
-
-(provide more details other than the code: screenshots / video demo / flow chart / metrics added or changed / internal tools/ related urls / related file paths / etc)
