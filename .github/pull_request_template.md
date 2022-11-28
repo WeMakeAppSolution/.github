@@ -1,6 +1,6 @@
-### One-liner description
+### Describe **how** this change solves the issue
 
-(provide more context if necessary)
+(provide more context information for the reviewer if necessary)
 
 ### Test steps with screenshots/video/flow chart
 
