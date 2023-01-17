@@ -8,7 +8,7 @@
 
 ---
 
-### Checklist (must complete and tick all)
+### Checklist
 
 - [ ] I've self-reviewed my code locally before committing the code with the alignment of the [Code Review Guidelines](https://wemakeapp-docs.notion.site/Feature-Branch-Review-Guidelines-aeb7cf4fb3964ef4ad35c6a9d2fbfe2d)
 - [ ] I've tested both locally and on preview with test proof
